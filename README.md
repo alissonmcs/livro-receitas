@@ -5,5 +5,4 @@ Olá! Bem vindo ao meu livro de receitas! :smile:
 - Strogonoff de frango
 - Pavê
 - Goiabada
-- Bolo de ceboura
-
+- Bolo de cenoura
